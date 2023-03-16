@@ -2,6 +2,7 @@ src/
 vendor/
 node-modules/
 gulpfile.js
+uptask_mvc_proyectos.sql
 package.json
 package-lock.json
 .env
